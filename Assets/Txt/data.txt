@@ -1,0 +1,18 @@
+ Активные /users/list/active
+ Удаленные /users/list/deleted
+ Отчёт по списаниям /reports/marketing/write-offs
+ Отчёт по расходам /reports/marketing/costs
+ Годовой отчёт /reports/marketing/year
+ Отчёт по эффективности работы /reports/control/efficiency
+ Отчёт по подключениям /reports/control/connecting
+ Создание /users/create
+ Список /users/list
+ Поиск /users/search
+ Заявки на поключение /requests/connecting
+ Заявки на ремонт /requests/repairs
+ Заявки на обход /requests/round
+ Отдел маркетинга /reports/marketing
+ Управление /reports/control
+ Пользователи /users
+ Заявки /requests
+ Отчёты /reports

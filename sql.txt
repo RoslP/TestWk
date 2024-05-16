@@ -1,0 +1,15 @@
+-- Создание базы данных
+CREATE DATABASE IF NOT EXISTS DB CHARACTER SET utf8 COLLATE utf8_general_ci;
+
+-- Использование созданной базы данных
+USE DB;
+
+
+
+-- Создание таблицы header
+CREATE TABLE IF NOT EXISTS header (
+    id INT,
+    name VARCHAR(50),
+    alias VARCHAR(50),
+    childrens INT
+);
