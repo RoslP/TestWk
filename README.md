@@ -124,7 +124,7 @@ $fatherId - id родительского элемента - по умолчан
 
 ![img_5.png](Assets/Img/img_5.png)
 
-### [Process.js](Assets%2FJS%2FProcess.js)Страница Index.php, db/
+### [Process.js](Assets%2FJS%2FProcess.js)
 Содержит js для обработки кнопок - клики и отрисовка контента.
 можно было сделать через форму и $_POST.
 Я сделал через ajax - принцип работы схож.
