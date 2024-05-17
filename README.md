@@ -110,7 +110,7 @@ $fatherId - id родительского элемента - по умолчан
 
 ![img_3.png](Assets/Img/img_3.png)
 
-Кнопка "Удалить"  справа удаляет данные из таблицы header - в бд, содержащей данные [all_data.json](Assets%2FJson%2Fcategories.json)
+Кнопка "Удалить"  справа удаляет данные из таблицы header - в бд, содержащей данные [categories.json](Assets%2FJson%2Fcategories.json)
 
 Кнопка слева "Заполнить" - отправляет в бд запрос на заполнение таблицы.
 
